@@ -41,7 +41,7 @@ social: true # includes social icons at the bottom of the page
     <a href="https://scholar.google.com/citations?user=RKjEFukAAAAJ&hl=en">Professor Amir Zamir</a> at EPFL, 
     as well as gaining multiple research experiences at Amirkabir University. I have working experience in:
     
-    <ul style="margin-top: -1%;" markdown='1'>
+    <ul markdown='1'>
         <li>Multimodality</li>
         <li>Adversarial Learning & Robustness</li>
         <li>Computer Vision</li>
