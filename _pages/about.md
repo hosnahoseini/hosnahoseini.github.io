@@ -38,7 +38,7 @@ social: true # includes social icons at the bottom of the page
     </ul>
     
     Throughout my undergraduate studies, I had the opportunity to work with 
-    <a href="https://scholar.google.com/citations?user=RKjEFukAAAAJ&hl=en">Professor Amir Zamir</a> at EPFL, 
+    <a href="https://scholar.google.com/citations?user=RKjEFukAAAAJ&hl=en">Prof. Amir Zamir</a> at EPFL, 
     as well as gaining multiple research experiences at Amirkabir University. I have working experience in:
     
     <ul markdown='1'>
