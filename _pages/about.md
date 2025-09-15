@@ -19,34 +19,35 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p style="text-align: justify;">
-    I’m Hosna, a research assistant at 
-    <a href="https://en.sharif.edu/">Sharif University of Technology, Tehran, Iran</a>,<br>
-    working at RIML (Robust and Interpretable Machine Learning) under the supervision of 
-    <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en">Dr. Mohammad Hossein Rohban.</a><br>
-    I received my bachelor's degree from 
-    <a href="https://aut.ac.ir/">Amirkabir University of Technology (Tehran Polytechnic)</a> last year.<br>
-    My research focuses on understanding deep learning models, particularly large language models (LLMs) 
-    and multimodal models, with the goal of improving their robustness, generalization, and explainability:
+    I’m Hosna, a Master of Mathematics (MMath) student in Computer Science at the 
+    <a href="https://uwaterloo.ca/">University of Waterloo</a>. <br>
+    I am honored to be supervised by 
+    <a href="https://cs.uwaterloo.ca/~jimmylin/">Prof. Jimmy Lin</a> 
+    and 
+    <a href="https://amirhkarimi.com/">Dr. Amirhossein Karimi</a>, 
+    working on Natural Language Processing (NLP), Information Retrieval (IR), 
+    and the trustworthiness and fairness of machine learning systems. <br><br>
     
+    Before that, I was a research assistant at 
+    <a href="https://en.sharif.edu/">Sharif University of Technology</a> 
+    in the RIML (Robust and Interpretable Machine Learning) group, supervised by 
+    <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en">Dr. Mohammad Hossein Rohban</a>. 
+    I also interned at 
+    <a href="https://www.epfl.ch/en/">EPFL</a>, where I had the privilege of working with 
+    <a href="https://scholar.google.com/citations?user=RKjEFukAAAAJ&hl=en">Prof. Amir Zamir</a>. <br>
+    I received my Bachelor's degree in Electrical and Computer Engineering (ECE) 
+    from 
+    <a href="https://aut.ac.ir/">Amirkabir University of Technology (Tehran Polytechnic)</a>. <br><br>
+    
+    My research interests include:
     <ul markdown='1'>
-        <li>Machine Learning & Deep Learning</li>
-        <li>LLMs and Vision-Language Models (VLMs)</li>
-        <li>Generalization & Robustness</li>
+        <li>Natural Language Processing (NLP)</li>
+        <li>Information Retrieval (IR)</li>
+        <li>Trustworthiness & Fairness in ML</li>
+        <li>Large Language Models (LLMs)</li>
         <li>Multimodal Learning</li>
-        <li>Explainability & Interpretability</li>
-        <li>Cognitive Science</li>
+        <li>Robustness & Generalization</li>
     </ul>
     
-    Throughout my undergraduate studies, I had the opportunity to work with 
-    <a href="https://scholar.google.com/citations?user=RKjEFukAAAAJ&hl=en">Prof. Amir Zamir</a> at EPFL, 
-    as well as gaining multiple research experiences at Amirkabir University. I have working experience in:
-    
-    <ul markdown='1'>
-        <li>Multimodality</li>
-        <li>Adversarial Learning & Robustness</li>
-        <li>Computer Vision</li>
-        <li>LLMs and Vision Models (VMs)</li>
-    </ul>
-    
-    In my non-academic life, I enjoy painting, nature walks, and wood carving!
+    Outside of research, I enjoy painting, nature walks, and wood carving!
 </p>
